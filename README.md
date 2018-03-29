@@ -5,6 +5,7 @@
 
     * SAS
     * Java
+    * SQL
 
 1.  Przekształcenia zmiennych
 
